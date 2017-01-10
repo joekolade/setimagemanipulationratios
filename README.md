@@ -10,7 +10,7 @@ Simply install the extension via *Extension Manager* or via composer.
 
 ### Composer
 
-Add this repository to your ```composer.json```
+Add this repository to your ```composer.json``
 ```
 "repositories": [
     {
