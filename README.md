@@ -10,7 +10,7 @@ Simply install the extension via *Extension Manager* or via composer.
 
 ### Composer
 
-Add this repository to your composer.json
+Add this repository to your ```composer.json```
 ```
 "repositories": [
     {
@@ -23,13 +23,13 @@ Add this repository to your composer.json
 Then require the extension:
 
 ```
-composer require JS/setimagemanipulationratios:~1.0 --no-update
+composer require js/setimagemanipulationratios --no-update
 ```
 
-and update composer dependencies
+and update composer dependencies (*--no-dev flag is optional*)
 
 ```
-composer update
+composer update --no-dev
 ```
 
 **Have fun!**
