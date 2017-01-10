@@ -1,0 +1,20 @@
+{
+  "name": "JS/setimagemanipulationratios",
+  "type": "typo3-cms-extension",
+  "description": "Ratios for image manipulation in TYPO3 CMS Backend",
+  "version": "1.0.0",
+  "homepage": "https://github.com/joekolade/setimagemanipulationratios",
+  "license": ["GPL-2.0+"],
+  "authors": [
+      {
+          "name": "Joekolade",
+          "email": "joe@joekola.de"
+      }
+  ],
+  "require": {
+    "typo3/cms-core": "^7.6"
+  },
+  "autoload": {
+    "psr-4": { "JS\\Setimagemanipulationratios\\": "Classes/"}
+  }
+}
