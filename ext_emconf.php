@@ -4,7 +4,7 @@ $EM_CONF[$_EXTKEY] = array(
     'title' => 'ratios for imageManipulation',
     'description' => 'Ratios for image manipulation in TYPO3 CMS Backend ',
     'category' => 'misc',
-    'version' => '1.0.2',
+    'version' => '1.0.3',
     'state' => 'stable',
     'uploadfolder' => false,
     'createDirs' => '',
@@ -14,7 +14,7 @@ $EM_CONF[$_EXTKEY] = array(
     'author_company' => '',
     'constraints' => array(
         'depends' => array(
-            'typo3/cms' => '7.6.0-8.9.99',
+            'typo3/cms' => '8.5.1-8.9.99',
         ),
         'conflicts' => array(
         ),
